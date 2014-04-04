@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VENDOR=sony
+VENDOR=pantech
 
 BASE=../../../vendor/$VENDOR/$DEVICE/proprietary
 
